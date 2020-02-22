@@ -1,0 +1,34 @@
+{
+    "name": "@bigpopakap/bashprofile",
+    "license": "UNLICENSED",
+    "version": "0.0.1",
+    "description": "Shared bashprofile with aliases, bin scrips, git configs, etc. for bigpopakap's dev environment. Use this to quickly set up a new machine.",
+    "homepage": "https://github.com/bigpopakap/shared-system-tools",
+    "keywords": [
+      "bigpopakap",
+      "bash_profile",
+      "dev environment",
+      "automation"
+    ],
+    "publishConfig": {
+      "access": "public"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/bigpopakap/shared-system-tools.git",
+      "directory": "packages/bashprofile"
+    },
+    "bugs": "https://github.com/bigpopakap/shared-system-tools/issues",
+    "engines": {
+      "node": ">=12.12"
+    },
+    "bin": {
+      "bigpopakap-bashprofile-setup": "src/bin/setup.js",
+      "bigpopakap-bashprofile": "src/bin/bashprofile.sh"
+    },
+    "dependencies": {
+      "shelljs": "0.8.3",
+      "yargs": "15.1.0"
+    }
+  }
+  

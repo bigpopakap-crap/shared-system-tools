@@ -9,5 +9,5 @@ Use this to quickly set up a new machine.
 ## Installation
 
 ```bash
-npx bigpopakap-bashprofile-setup
+npx bigpopakap-bashprofile-setup --package @bigpopakap/bashprofile
 ```

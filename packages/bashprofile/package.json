@@ -1,7 +1,7 @@
 {
   "name": "@bigpopakap/bashprofile",
   "license": "UNLICENSED",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Shared bashprofile with aliases, bin scrips, git configs, etc. for bigpopakap's dev environment. Use this to quickly set up a new machine.",
   "homepage": "https://github.com/bigpopakap/shared-system-tools",
   "keywords": [

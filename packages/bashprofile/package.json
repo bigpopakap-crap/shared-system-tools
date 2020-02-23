@@ -23,10 +23,6 @@
     "node": ">=12.12"
   },
   "bin": {
-    "bigpopakap-bashprofile-setup": "src/bin/setup.js",
     "bigpopakap-bashprofile": "src/bin/bashprofile.sh"
-  },
-  "dependencies": {
-    "yargs": "15.1.0"
   }
 }

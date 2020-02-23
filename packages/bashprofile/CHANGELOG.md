@@ -1,3 +1,10 @@
+# [@bigpopakap/bashprofile-v1.1.0](https://github.com/bigpopakap/shared-system-tools/compare/v1.0.0-@bigpopakap/bashprofile...v1.1.0-@bigpopakap/bashprofile) (2020-02-23)
+
+
+### Features
+
+* **bashprofile:** add basic aliases and commands ([e5d8e4f](https://github.com/bigpopakap/shared-system-tools/commit/e5d8e4fa1a280be398ca7bc4087baa1efd64adab))
+
 # @bigpopakap/bashprofile-v1.0.0 (2020-02-23)
 
 

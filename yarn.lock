@@ -104,17 +104,17 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@bigpopakap/eslint-config@1.1.51":
-  version "1.1.51"
-  resolved "https://registry.yarnpkg.com/@bigpopakap/eslint-config/-/eslint-config-1.1.51.tgz#0b335607a776bfb6902d0f48e8df75e2ead3e5d2"
-  integrity sha512-Au8SJm05Tm07EKDAA3de1CnjXFLEVxO5vaZN2MOqnMWvJxDkDlZNbSzDStjeemaNTmjNIyRiYjJcY7DTyTl5Fg==
+"@bigpopakap/eslint-config@1.1.52":
+  version "1.1.52"
+  resolved "https://registry.yarnpkg.com/@bigpopakap/eslint-config/-/eslint-config-1.1.52.tgz#1b095944dcc4f1eb4563231cb6985288466ca86a"
+  integrity sha512-5yK9xFbKz5/AjllLgUtzPJxhw8baOKhAQXktpCicRB3SM3Jab6HUdPhpmD9owZsZIpEMzZnx1fiybDj6G4UxWQ==
   dependencies:
     "@typescript-eslint/eslint-plugin" "2.24.0"
     "@typescript-eslint/parser" "2.24.0"
     babel-eslint "10.1.0"
     eslint "6.8.0"
     eslint-config-prettier "6.10.0"
-    eslint-config-react-app "5.2.0"
+    eslint-config-react-app "5.2.1"
     eslint-import-resolver-typescript "2.0.0"
     eslint-plugin-absolute-import "1.4.4"
     eslint-plugin-css-modules "2.11.0"
@@ -3100,10 +3100,10 @@ eslint-config-prettier@6.10.0:
   dependencies:
     get-stdin "^6.0.0"
 
-eslint-config-react-app@5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-5.2.0.tgz#135110ba56a9e378f7acfe5f36e2ae76a2317899"
-  integrity sha512-WrHjoGpKr1kLLiWDD81tme9jMM0hk5cMxasLSdyno6DdPt+IfLOrDJBVo6jN7tn4y1nzhs43TmUaZWO6Sf0blw==
+eslint-config-react-app@5.2.1:
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-5.2.1.tgz#698bf7aeee27f0cea0139eaef261c7bf7dd623df"
+  integrity sha512-pGIZ8t0mFLcV+6ZirRgYK6RVqUIKRIi9MmgzUEmrIknsn3AdO0I32asO86dJgloHq+9ZPl8UIg8mYrvgP5u2wQ==
   dependencies:
     confusing-browser-globals "^1.0.9"
 

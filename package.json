@@ -27,7 +27,7 @@
     }
   },
   "devDependencies": {
-    "@bigpopakap/eslint-config": "1.1.132",
+    "@bigpopakap/eslint-config": "1.1.133",
     "@commitlint/cli": "9.1.2",
     "@commitlint/config-conventional": "9.1.2",
     "@commitlint/travis-cli": "9.1.2",

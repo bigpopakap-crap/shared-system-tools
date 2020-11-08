@@ -5766,6 +5766,11 @@ lodash@^4.17.19:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.19.tgz#e48ddedbe30b3321783c5b4301fbd353bc1e4a4b"
   integrity sha512-JNvd8XER9GQX0v2qJgsaN/mzFCNA5BRe/j8JN9d+tWyGLSodKQHKFicdwNYzWwI3wjRnaKPsGj1XkBjx/F96DQ==
 
+lodash@^4.17.20:
+  version "4.17.20"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
+
 log-symbols@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/log-symbols/-/log-symbols-4.0.0.tgz#69b3cc46d20f448eccdb75ea1fa733d9e821c920"
@@ -8039,13 +8044,13 @@ safe-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/safer-buffer/-/safer-buffer-2.1.2.tgz#44fa161b0187b9549dd84bb91802f9bd8385cd6a"
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
-semantic-release-monorepo-hooks@2.9.6:
-  version "2.9.6"
-  resolved "https://registry.yarnpkg.com/semantic-release-monorepo-hooks/-/semantic-release-monorepo-hooks-2.9.6.tgz#1160f6180709c6d689bf8ed84a5b892456db64fe"
-  integrity sha512-JETk6yWutvJIZ25TLIOuk9XJYTBMPYARRcSqCo3taU2IK4162IqFwnZaBocfPtXdULTHInY3ZgigTChVs8TO0A==
+semantic-release-monorepo-hooks@2.9.7:
+  version "2.9.7"
+  resolved "https://registry.yarnpkg.com/semantic-release-monorepo-hooks/-/semantic-release-monorepo-hooks-2.9.7.tgz#e64d9494e5b371178e6d3b4f3be96f2741db8f22"
+  integrity sha512-othQvUb0rkqZ7w6xAwZVc+LGqlU2ETfaBErPeAZhwd+n8n3mz0oTiRyXx62o2h/tZcZa0NO87XegaGS5lHJhNA==
   dependencies:
     find-git-root "^1.0.4"
-    lodash "^4.17.19"
+    lodash "^4.17.20"
     read-pkg "^5.2.0"
     semver "^7.3.2"
 

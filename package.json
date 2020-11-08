@@ -43,7 +43,7 @@
     "lint-staged": "10.5.1",
     "semantic-release": "17.2.2",
     "semantic-release-monorepo": "7.0.3",
-    "semantic-release-monorepo-hooks": "2.9.6",
+    "semantic-release-monorepo-hooks": "2.9.7",
     "semantic-release-plugin-decorators": "3.0.0"
   }
 }
